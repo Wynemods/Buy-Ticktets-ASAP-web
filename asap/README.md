@@ -1,4 +1,4 @@
-# ASAP Tickets Flight Booking Website
+# ASAP Tickets Flight Booking Website ($1800)
 
 This project is a React-based flight booking website used by ASAP Tickets for managing flight configurations, bookings, and payments. The system provides a comprehensive interface for creating customized flight booking pages, managing passenger details, and processing payments securely.
 
